@@ -1,6 +1,6 @@
 
 Matt's Node Readme Generator
-https://img.shields.io/badge/License-WTFPL-brightgreen.svg
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ## Description
 Node/Inquirer based readme Generator
