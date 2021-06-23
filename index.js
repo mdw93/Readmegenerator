@@ -9,12 +9,12 @@ let myImg = null
 
 //Object to pull license info for the readme
 const licenseInfo = {
-    MIT: [`![License: MIT]https://img.shields.io/badge/License-MIT-yellow.svg`, `https://opensource.org/licenses/MIT`],
-    Mozilla: [`![License: MPL 2.0]https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg`, `https://opensource.org/licenses/MPL-2.0`],
-    WTFPL: [`![License: WTFPL]https://img.shields.io/badge/License-WTFPL-brightgreen.svg`, `http://www.wtfpl.net/about/`],
-    PDDL: [`![License: ODbL]https://img.shields.io/badge/License-PDDL-brightgreen.svg`, `https://opendatacommons.org/licenses/pddl/`],
-    ISC: [`![License: ISC]https://img.shields.io/badge/License-ISC-blue.svg`, `https://opensource.org/licenses/ISC)`],
-    Eclipse: [`![License]https://img.shields.io/badge/License-EPL%201.0-red.svg`, `https://opensource.org/licenses/EPL-1.0`],
+    MIT: [`![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`, `https://opensource.org/licenses/MIT`],
+    Mozilla: [`![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)`, `https://opensource.org/licenses/MPL-2.0`],
+    WTFPL: [`![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)`, `http://www.wtfpl.net/about/`],
+    PDDL: [`![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)`, `https://opendatacommons.org/licenses/pddl/`],
+    ISC: [`![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)`, `https://opensource.org/licenses/ISC)`],
+    Eclipse: [`![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)`, `https://opensource.org/licenses/EPL-1.0`],
     None: ['', '']
 }
 
