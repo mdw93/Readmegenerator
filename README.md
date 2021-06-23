@@ -1,7 +1,7 @@
 
 Matt's Node Readme Generator
 
-[![License: WTFPL]https://img.shields.io/badge/License-WTFPL-brightgreen.svg]
+![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)
 
 ## Description
 Node/Inquirer based readme Generator
@@ -21,7 +21,7 @@ VSC, Javascript, Inquirer, FS, Util, Node
 Run file in a node terminal and answer all relevant questions
 https://i.picsum.photos/id/774/200/200.jpg?hmac=kHZuEL0Tzh_9wUk4BnU9zxodilE2mGBdAAor2hKpA_w
 
-This application is covered by ![License: WTFPL]https://img.shields.io/badge/License-WTFPL-brightgreen.svg. 
+This application is covered by ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg). 
 http://www.wtfpl.net/about/
 
 ## Contributors
