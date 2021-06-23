@@ -1,7 +1,7 @@
 
 Matt's Node Readme Generator
 
-![License: WTFPL]https://img.shields.io/badge/License-WTFPL-brightgreen.svg
+[![License: WTFPL]https://img.shields.io/badge/License-WTFPL-brightgreen.svg]
 
 ## Description
 Node/Inquirer based readme Generator
