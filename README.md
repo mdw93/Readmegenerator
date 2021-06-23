@@ -1,6 +1,8 @@
 
 Matt's Node Readme Generator
 
+![License: ODbL]https://img.shields.io/badge/License-PDDL-brightgreen.svg
+
 ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)
 
 ## Description
